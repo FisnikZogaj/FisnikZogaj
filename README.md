@@ -5,8 +5,6 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fisnikzogaj" alt="fisnikzogaj" /></a> </p>-->
 
-- 🌱 I’m currently learning **Various ML-Algorithmns, Numeric Optimization and everything related to Data.**
-
 - 💬 Ask me about **Statistics, Future of AI, anything really.**
 
 - 📫 How to reach me **fisnik.zogaj97@gmail.com**
